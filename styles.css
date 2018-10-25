@@ -1,0 +1,58 @@
+body {
+   background-image: linear-gradient(Red, LAVENDER);
+}
+
+img {
+    border-style:groove; 
+    border-color:purple;
+    filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+    border-radius: 8px;
+    height: 400px;
+    background-color: purple ;
+}
+.Firstimage {
+         width: 100%;
+         display: flex;
+         justify-content: center;
+}
+    
+    
+h1{
+    font-family: 'Charmonman',cursive;
+     text-shadow: 4px 2px red;
+     text-align: center;
+     text-decoration: underline;
+}
+h2{
+    font-family: 'Charmonman',cursive;
+     text-shadow: 3px 2px red;
+     font-size: 40px;
+    
+     
+}
+h3{
+    font-family: 'Charmonman',cursive;
+     text-shadow: 3px 2px red;
+     font-size: 40px;
+     
+}
+h4{
+    font-family: 'Charmonman',cursive;
+    text-shadow: 3px 2px red;
+    font-size: 50px;
+}
+ul{
+    font-family: 'Charmonman',cursive;
+    font-size: 40px;
+     text-decoration: underline;
+}
+p{
+    font-size: 40px;
+     text-decoration: underline;
+     text-align: center;
+     
+     
+     
+     
+}
